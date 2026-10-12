@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,35:312E81,70:6D28D9,100:4F46E5&text=SHUBHAM%20JAIN&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20ANALYTICS%20%7C%20AI%2FML%20%7C%20SOFTWARE%20ENGINEERING&descSize=14&descAlignY=58&animation=fadeIn&stroke=8B5CF6&strokeWidth=1" width="100%" alt="Shubham Jain profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,35:312E81,70:6D28D9,100:4F46E5&text=SHUBHAM%20JAIN&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20ANALYTICS%20%7C%20AI%2FML&descSize=14&descAlignY=58&animation=fadeIn&stroke=8B5CF6&strokeWidth=1" width="100%" alt="Shubham Jain profile banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&height=45&lines=Aspiring+Software+Engineer;Data+Analytics+%7C+Machine+Learning;Python+%7C+SQL+%7C+Power+BI;Building+Data-Driven+Intelligent+Solutions;Learning.+Building.+Improving." alt="Animated typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&height=45&lines=Aspiring+Data+Analyst+%26+AI%2FML+Practitioner;Data+Analytics+%7C+Machine+Learning;Python+%7C+SQL+%7C+Power+BI;Building+Data-Driven+Intelligent+Solutions;Learning.+Building.+Improving." alt="Animated typing introduction"/>
 
 <br/>
 
@@ -30,22 +30,19 @@
 
 ## 👨‍💻 About Me
 
-I'm **Shubham Jain**, an aspiring technology professional focused on data analytics, machine learning, and the engineering of practical, data-driven solutions.
+I'm **Shubham Jain**, an aspiring data analyst and AI/ML practitioner focused on turning raw data into insights and predictive models.
 
-My approach combines analytical thinking, programming fundamentals, and a product-oriented mindset to transform raw data into meaningful insights and working applications. I enjoy understanding problems at their root, designing structured solutions, and building projects that demonstrate measurable business value.
+My approach combines analytical thinking, programming fundamentals, and a product-oriented mindset to transform raw data into meaningful insights and working models. I enjoy understanding problems at their root, designing structured solutions, and building projects that demonstrate measurable business value.
 
 My current technical interests span the analytics-to-ML pipeline, from data preparation and exploratory analysis to predictive modeling, natural language processing, and interactive business intelligence.
 
-- **Software Engineering:** Writing structured, reusable, maintainable Python code and developing problem-solving fundamentals.
+- **Python for Data:** Writing clean, reusable Python for data cleaning, analysis, and modeling.
 - **AI & Machine Learning:** Building classification models, experimenting with CNN-based image classification, and exploring NLP workflows.
 - **Data Analytics:** Transforming raw datasets into actionable insights using Python, SQL, Excel, and Power BI.
-- **Full-Stack Development:** Exploring APIs, application architecture, frontend technologies, and backend fundamentals to extend analytical projects into usable applications.
-- **Product Engineering:** Prioritizing practical requirements, data quality, usability, reproducibility, and business impact.
-- **Continuous Learning:** Strengthening foundations in algorithms, databases, mathematics, AI/ML, and modern engineering tools.
+- **Continuous Learning:** Strengthening foundations in statistics, mathematics, databases, AI/ML, and modern analytics tools.
 
 **Open To**
 - Entry-level Data Analyst opportunities
-- Junior Python Developer opportunities
 - Junior Machine Learning and AI opportunities
 - Analytics and Business Intelligence projects
 - Open-source contributions and collaborative learning
@@ -64,24 +61,12 @@ My current technical interests span the analytics-to-ML pipeline, from data prep
 
 </div>
 
-### Frontend
+### Databases
 
 <div align="center">
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-</div>
-
-### Backend & Databases
-
-<div align="center">
-
-[![Python](https://img.shields.io/badge/Python%20Applications-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL%20Queries-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-[![REST APIs](https://img.shields.io/badge/REST%20APIs-5B21B6?style=flat-square&logo=fastapi&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 
 </div>
 
@@ -95,6 +80,7 @@ My current technical interests span the analytics-to-ML pipeline, from data prep
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)](https://seaborn.pydata.org/)
 
 </div>
 
@@ -108,7 +94,7 @@ My current technical interests span the analytics-to-ML pipeline, from data prep
 
 </div>
 
-### Cloud, DevOps & Tooling
+### Tools
 
 <div align="center">
 
@@ -116,8 +102,6 @@ My current technical interests span the analytics-to-ML pipeline, from data prep
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sj593916-cmyk)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.kernel.org/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 
 </div>
 
@@ -128,7 +112,7 @@ My current technical interests span the analytics-to-ML pipeline, from data prep
 | Domain | Proficiency | Details |
 |:---|:---:|:---|
 | Python for Data Analysis | Intermediate | Data manipulation, preprocessing, exploratory analysis, and reusable analytical workflows. |
-| Data Visualization | Intermediate | Matplotlib charts, exploratory visualizations, and analytical reporting. |
+| Data Visualization | Intermediate | Matplotlib and Seaborn charts, exploratory visualizations, and analytical reporting. |
 | SQL & Data Handling | Foundational | Querying structured data, filtering, aggregation, and relational data fundamentals. |
 | Business Intelligence | Intermediate | Power BI dashboards, DAX measures, KPI tracking, and Excel-based reporting. |
 | Machine Learning | Foundational–Intermediate | Classification workflows, preprocessing, categorical encoding, Logistic Regression, and evaluation metrics. |
@@ -162,7 +146,7 @@ A supervised machine learning project that identifies customers who may be at ri
 | **Impact** | Supports churn-risk analysis and customer-retention decision-making |
 | **Repository** | [View Project](https://github.com/sj593916-cmyk/customer-churn-prediction) |
 
-**Engineering Highlights**
+**Highlights**
 
 - Developed a classification pipeline with structured data preprocessing.
 - Encoded categorical variables for machine learning compatibility.
@@ -175,7 +159,7 @@ A supervised machine learning project that identifies customers who may be at ri
 - Add cross-validation and hyperparameter tuning.
 - Compare multiple classifiers against a baseline.
 - Introduce explainability and feature-importance analysis.
-- Deploy a prediction interface with FastAPI or Streamlit.
+- Summarize churn drivers in a short Power BI report.
 
 **Skills:** `Classification` `Feature Engineering` `Scikit-learn` `Model Evaluation`
 
@@ -199,7 +183,7 @@ A CNN-based image classification project designed to recognize five facial-expre
 | **Impact** | Demonstrates an end-to-end computer vision classification workflow |
 | **Repository** | [View Project](https://github.com/sj593916-cmyk/facial-emotion-classification) |
 
-**Engineering Highlights**
+**Highlights**
 
 - Implemented a convolutional neural network for image classification.
 - Applied image preprocessing and augmentation.
@@ -211,7 +195,6 @@ A CNN-based image classification project designed to recognize five facial-expre
 
 - Add a reproducible training configuration and model checkpoints.
 - Document class-wise precision, recall, and confusion matrices.
-- Build an optional local inference interface.
 - Add safeguards against inappropriate use and unsupported emotion-based judgments.
 
 **Skills:** `Deep Learning` `CNN` `Computer Vision` `TensorFlow`
@@ -236,7 +219,7 @@ A natural language processing pipeline that categorizes customer reviews as posi
 | **Impact** | Helps organize customer feedback for exploratory analysis |
 | **Repository** | [View Project](https://github.com/sj593916-cmyk/customer-review-sentiment-analysis) |
 
-**Engineering Highlights**
+**Highlights**
 
 - Developed a text classification pipeline.
 - Transformed review text into TF-IDF features.
@@ -249,7 +232,7 @@ A natural language processing pipeline that categorizes customer reviews as posi
 - Add text normalization and configurable preprocessing.
 - Evaluate macro-F1 and per-class performance.
 - Investigate class imbalance and misclassified examples.
-- Add a feedback dashboard or lightweight API.
+- Add a sentiment dashboard in Power BI.
 
 **Skills:** `NLP` `TF-IDF` `Text Classification` `Scikit-learn`
 
@@ -273,7 +256,7 @@ An interactive Power BI dashboard designed to track sales, profitability, orders
 | **Impact** | Helps users explore commercial performance and business KPIs |
 | **Repository** | [View Project](https://github.com/sj593916-cmyk/ecommerce-sales-dashboard) |
 
-**Engineering Highlights**
+**Highlights**
 
 - Created interactive business intelligence visualizations.
 - Designed measures for total sales and total profit.
@@ -310,7 +293,7 @@ A reusable Python utility that performs basic data-quality checks, calculates de
 | **Impact** | Reduces repetitive steps in exploratory analysis and reporting |
 | **Repository** | [View Project](https://github.com/sj593916-cmyk/automated-data-analysis-tool) |
 
-**Engineering Highlights**
+**Highlights**
 
 - Automated basic data-quality checks.
 - Generated descriptive statistics from CSV data.
@@ -320,9 +303,8 @@ A reusable Python utility that performs basic data-quality checks, calculates de
 
 **Potential Enhancements**
 
-- Add command-line arguments and configuration options.
-- Introduce structured logging and clearer exception handling.
-- Add automated tests and sample datasets.
+- Add more chart types, including Seaborn plots.
+- Add sample datasets and a short usage guide.
 - Generate standardized reports with reproducible outputs.
 
 **Skills:** `Python` `Pandas` `Matplotlib` `Automation` `Excel Reporting`
@@ -347,7 +329,6 @@ Building practical experience through hands-on projects, structured coursework, 
 - Build classification workflows using Scikit-learn.
 - Experiment with CNN-based image classification and NLP pipelines.
 - Automate descriptive analysis, visualization, and Excel reporting.
-- Practice software development fundamentals through independent projects.
 - Document implementation decisions and identify opportunities for improvement.
 
 **Skills:** `Python` `SQL` `Power BI` `Excel` `Machine Learning` `NLP` `Deep Learning`
@@ -403,22 +384,6 @@ Building practical experience through hands-on projects, structured coursework, 
 [![IBM SkillsBuild](https://img.shields.io/badge/IBM%20SkillsBuild-Data%20Analytics%20Fluency-1261FE?style=flat-square&logo=ibm&logoColor=white)](https://skillsbuild.org/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Python%20Basic-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Power%20BI%20%26%20Analytics-5E5E5E?style=flat-square&logo=microsoft&logoColor=white)](https://learn.microsoft.com/)
-
----
-
-## 💻 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-Practice%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-
-<a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-Problem%20Solving-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
-
-<a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-Coding%20Practice-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
-
-<a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
-
-</div>
 
 ---
 
@@ -478,12 +443,11 @@ Building practical experience through hands-on projects, structured coursework, 
 
 ```yaml
 learning:
-  - Advanced Python and problem-solving fundamentals
+  - Advanced Python for data analysis
   - SQL queries, joins, aggregations, and relational databases
   - Statistics and mathematics for machine learning
   - Machine learning model evaluation and feature engineering
   - Deep learning and natural language processing
-  - Software engineering principles and clean code
 
 building:
   - Customer churn prediction pipeline
@@ -494,15 +458,13 @@ building:
 
 exploring:
   - Generative AI and practical AI applications
-  - APIs and application development
   - Git, GitHub, and collaborative workflows
   - Data pipelines, testing, and reproducibility
-  - Cloud fundamentals and deployment concepts
 
 open_to:
   - Entry-level Data Analyst opportunities
-  - Junior Python Developer opportunities
-  - Junior AI/ML opportunities
+    - Junior AI/ML opportunities
   - Business Intelligence projects
   - Open-source collaboration
   - Learning-focused technical partnerships
+```
