@@ -8,6 +8,7 @@
 
 [![BBA](https://img.shields.io/badge/Education-BBA-312E81?style=flat-square&logo=academia&logoColor=white)](https://www.ignou.ac.in/)
 [![AI/ML](https://img.shields.io/badge/Program-Generative%20AI%20%26%20ML-5B21B6?style=flat-square&logo=googlecolab&logoColor=white)](https://github.com/sj593916-cmyk)
+[![E-Accounting](https://img.shields.io/badge/Education-E--Accounting%20%7C%20Yash%20Skill%20Hub%20%7C%202026--2027-3730A3?style=flat-square&logo=academia&logoColor=white)](https://github.com/sj593916-cmyk)
 [![Class XII](https://img.shields.io/badge/Class%20XII-80%25-4338CA?style=flat-square&logo=bookstack&logoColor=white)](https://github.com/sj593916-cmyk)
 [![Location](https://img.shields.io/badge/Location-Delhi%2C%20India-4F46E5?style=flat-square&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Delhi/)
 
@@ -342,9 +343,10 @@ Building practical experience through hands-on projects, structured coursework, 
 | Recognition | Details |
 |:---|:---|
 | Generative AI & Machine Learning Program | Completed the program at Global Institute in 2026. |
-| IBM SkillsBuild | Completed the Data Analytics Fluency Pathway, including six microcredentials, as listed on the resume. |
-| HackerRank Python | Earned the Python (Basic) credential listed on the resume. |
-| Microsoft Learn | Completed Power BI and Data Analytics learning achievements. |
+| IBM SkillsBuild | Completed AI Fundamentals and four data analytics microcredentials: classification, collection and analysis, preparation, and visualization. |
+| HackerRank Python | Passed the HackerRank Python (Basic) skill certification test. |
+| Machine Learning Specialization | Completed the 3-course Stanford Online and DeepLearning.AI specialization on Coursera. |
+| Microsoft Learn | Completed the Get started building with Power BI learning path. |
 | Practical Project Portfolio | Developed projects across machine learning, computer vision, NLP, business intelligence, and Python automation. |
 | Academic Performance | Achieved 80% in Class XII. |
 
@@ -354,36 +356,40 @@ Building practical experience through hands-on projects, structured coursework, 
 
 ## 📜 Certifications
 
-### AWS
+### AI & Machine Learning
 
-[![AWS Skill Builder](https://img.shields.io/badge/AWS-Skill%20Builder-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://skillbuilder.aws/)
+| Certificate | Issuer | Date | Links |
+|:---|:---|:---:|:---|
+| Machine Learning Specialization | Stanford Online & DeepLearning.AI (Coursera) | Sep 14, 2026 | [Certificate](BEST%20CERTIFICATES/AI/Machine%20Learning%20Specialization.pdf) · [Verify](https://coursera.org/verify/specialization/S92S6K1YLM2T) |
+| Google AI Essentials | Google (Coursera) | Sep 13, 2026 | [Certificate](BEST%20CERTIFICATES/AI/Google%20AI%20Essentials.pdf) · [Verify](https://coursera.org/verify/specialization/AYSDYK77ME57) |
+| Artificial Intelligence Fundamentals | IBM SkillsBuild | Sep 13, 2026 | [Certificate](BEST%20CERTIFICATES/AI/Artificial%20Intelligence%20Fundamentals_IBM%20SkillsBuild.pdf) · [Verify](https://www.credly.com/badges/61896e70-8c0e-4d35-91b3-7e8e4afcc1de) |
+| Advanced Machine Learning Operations | Databricks Academy | Sep 21, 2026 | [Certificate](BEST%20CERTIFICATES/AI/Advanced%20Machine%20Learning%20Operations_Databricks%20Academy.pdf) |
 
-*Currently exploring AWS learning resources. No completed AWS certification claimed.*
+### Data Analytics
 
-### Oracle
+| Certificate | Issuer | Date | Links |
+|:---|:---|:---:|:---|
+| Data Analytics Essentials | Cisco Networking Academy | Sep 20, 2026 | [Certificate](BEST%20CERTIFICATES/DA/Data_Analytics_Essentials_certificate.pdf) · [Badge](BEST%20CERTIFICATES/DA/DataAnalyticsEssentials.pdf) |
+| Get started building with Power BI | Microsoft Learn | Sep 6, 2026 | [Certificate](BEST%20CERTIFICATES/DA/Get%20started%20building%20with%20Power%20BI.pdf) · [Verify](https://learn.microsoft.com/en-us/users/shubhamjain-5434/) |
+| AI/BI for Data Analysts | Databricks Academy | Sep 22, 2026 | [Certificate](BEST%20CERTIFICATES/DA/AI-BI%20for%20Data%20Analysts_Databricks%20Academy.pdf) |
+| Data Classification | IBM SkillsBuild | Sep 6, 2026 | [Certificate](BEST%20CERTIFICATES/DA/IBM%20certificates/Data%20Classification.pdf) · [Verify](https://www.credly.com/badges/ad0f73c7-c41a-46e3-97e9-d6fec9dafc60) |
+| Data Collection and Analysis | IBM SkillsBuild | Sep 6, 2026 | [Certificate](BEST%20CERTIFICATES/DA/IBM%20certificates/Data%20Collection%20and%20Analysis.pdf) · [Verify](https://www.credly.com/badges/25e550c0-0d0a-455b-8651-e8c819688ec3) |
+| Data Preparation for Analysis | IBM SkillsBuild | Sep 6, 2026 | [Certificate](BEST%20CERTIFICATES/DA/IBM%20certificates/Data%20Preparation%20for%20Analysis.pdf) · [Verify](https://www.credly.com/badges/fed6bed0-ba71-4200-94dc-e2fdb622b9a6) |
+| Data Visualization and Presentation | IBM SkillsBuild | Sep 6, 2026 | [Certificate](BEST%20CERTIFICATES/DA/IBM%20certificates/Data%20Visualization%20and%20Presentation.pdf) · [Verify](https://www.credly.com/badges/2162668e-9250-4537-a95f-6f121fcf918a) |
 
-[![Oracle](https://img.shields.io/badge/Oracle-Learning-312E81?style=for-the-badge&logo=oracle&logoColor=white)](https://education.oracle.com/)
+### Python
 
-*Oracle certification status: no completed credential currently listed.*
+| Certificate | Issuer | Date | Links |
+|:---|:---|:---:|:---|
+| Python (Basic) | HackerRank | Sep 6, 2026 | [Certificate](BEST%20CERTIFICATES/DA/Python%20certificates/python_basic%20certificate.pdf) |
+| Python Essentials 1 | Cisco Networking Academy | Sep 21, 2026 | [Certificate](BEST%20CERTIFICATES/DA/Python%20certificates/Python_Essentials_1.pdf) · [Badge](BEST%20CERTIFICATES/DA/Python%20certificates/PythonEssentials1.pdf) |
+| Python Essentials 2 | Cisco Networking Academy | Sep 21, 2026 | [Certificate](BEST%20CERTIFICATES/DA/Python%20certificates/Python_Essentials_2.pdf) · [Badge](BEST%20CERTIFICATES/DA/Python%20certificates/PythonEssentials2.pdf) |
 
-### NPTEL
+### E-Accounting
 
-[![NPTEL](https://img.shields.io/badge/NPTEL-Learning-4338CA?style=for-the-badge&logo=academia&logoColor=white)](https://nptel.ac.in/)
-
-*NPTEL certification status: no completed credential currently listed.*
-
-### Cisco
-
-[![Cisco Python Essentials 1](https://img.shields.io/badge/Cisco-Python%20Essentials%201-049FD9?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/)
-
-*Cisco learning resources: include the credential here once completion and badge details have been verified.*
-
-### Other Completed Credentials & Learning Achievements
-
-[![Global Institute](https://img.shields.io/badge/Global%20Institute-Generative%20AI%20%26%20ML-5B21B6?style=flat-square&logo=googlecolab&logoColor=white)](https://github.com/sj593916-cmyk)
-[![IBM SkillsBuild](https://img.shields.io/badge/IBM%20SkillsBuild-Data%20Analytics%20Fluency-1261FE?style=flat-square&logo=ibm&logoColor=white)](https://skillsbuild.org/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Python%20Basic-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Power%20BI%20%26%20Analytics-5E5E5E?style=flat-square&logo=microsoft&logoColor=white)](https://learn.microsoft.com/)
+| Certificate | Issuer | Date | Links |
+|:---|:---|:---:|:---|
+| Tally Bookkeeper | Tally Education (Coursera) | Sep 26, 2026 | [Certificate](BEST%20CERTIFICATES/E-Accounting/Tally%20Bookkeeper.pdf) · [Verify](https://coursera.org/verify/professional-cert/KLYXBBWM3OC0) |
 
 ---
 
